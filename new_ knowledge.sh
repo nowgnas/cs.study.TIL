@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Prompt the user for the folder name
-echo "Enter folder name (uppercase):"
+echo "Enter CS Topic (uppercase):"
 read folder_name
 
 # Convert folder name to uppercase
@@ -17,7 +17,7 @@ else
 fi
 
 # Prompt the user for the topic
-echo "Enter the topic:"
+echo "Enter the detail topic:"
 read topic
 
 # Get the current date
