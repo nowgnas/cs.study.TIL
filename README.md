@@ -10,3 +10,9 @@ cs 내용 정리 하기 전 `./new_knowledge.md`로 shell script file을 실행 
 CS 주제는 대문자로 생성되고 세부 파일은 생성 날짜-주제.md로 생성된다.
 
 만약 위 명령을 실행했을 때 Permission이 뜨면 `chmod +x <file name>` 으로 실행 권한을 부여한 후 실행한다
+
+## 언제 뭘 공부 했지??
+
+|   Date   | Topic |                  Url                  |
+| :------: | :---: | :-----------------------------------: |
+| 23.06.02 |  jdk  | [jdk content](./JAVA/23-06-02-jdk.md) |
