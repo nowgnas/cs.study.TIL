@@ -22,6 +22,7 @@ read topic
 
 # Get the current date
 current_date=$(date +%y-%m-%d)
+file_date=$(date +%y.%m.%d)
 
 # Create the file name with the specified format
 file_name="$current_date-$topic.md"
@@ -31,3 +32,7 @@ touch "$folder_name/$file_name"
 
 # Display a success message
 echo "File '$file_name' created inside folder '$folder_name'."
+
+echo "| $file_date |  $topic  | [$topic content](./$folder_name/$current_date-$topic.md) |" >> README.md
+
+echo "README updated"
