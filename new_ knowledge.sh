@@ -33,6 +33,6 @@ touch "$folder_name/$file_name"
 # Display a success message
 echo "File '$file_name' created inside folder '$folder_name'."
 
-echo "| $file_date |  $topic  | [$topic content](./$folder_name/$current_date-$topic.md) |" >> README.md
+echo "| $file_date |  $topic  | [$topic 내용 정리](./$folder_name/$current_date-$topic.md) |" >> README.md
 
 echo "README updated"
