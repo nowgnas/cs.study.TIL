@@ -19,3 +19,4 @@ CS 주제는 대문자로 생성되고 세부 파일은 생성 날짜-주제.md�
 | 23.06.03 |  thread-process  | [thread-process content](./JAVA/23-06-03-thread-process.md) |
 | 23.06.05 |  socket  | [socket 내용 정리](./JAVA/23-06-05-socket.md) |
 | 23.06.06 |  msa-cloud  | [msa-cloud 내용 정리](./ARCHITECTURE/23-06-06-msa-cloud.md) |
+| 23.06.08 |  garbage-collection  | [garbage-collection 내용 정리](./JAVA/23-06-08-garbage-collection.md) |
